@@ -1,4 +1,4 @@
-# NRF_17_ML_Challenge_Bangla_Digit_Recognise
+# Bangla_Digit_Recognise
 
 **Bangla Hand-written Digit Recognise**
 
